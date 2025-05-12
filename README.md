@@ -3,7 +3,7 @@
  ```html
 <p align="end">
    <strong>🌐 Change language:</strong><br>
-   <a href="multilang/README_ES.md">
+   <a href="multilang/README_.es.md">
     <img src="multilang/ES.png" alt="Español" width="50">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="/README.md">
